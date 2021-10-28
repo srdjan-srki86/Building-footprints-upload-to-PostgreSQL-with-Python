@@ -12,6 +12,7 @@ https://download.gisinternals.com/sdk/downloads/release-1900-x64-gdal-2-4-4-maps
 # After installation, it is necessary to add a path
 
 
-![image1](https://user-images.githubusercontent.com/39372009/139331305-1805997f-3cff-47d7-92ff-6eda01abecd9.jpeg)
+![image1_new](https://user-images.githubusercontent.com/39372009/139333254-7fa31608-0b18-4ff7-acbc-804fdb582077.jpeg)
 
-![image2](https://user-images.githubusercontent.com/39372009/139331354-b75b6f5d-f803-45ef-a40f-54e1f758253d.jpeg)
+![image2_new](https://user-images.githubusercontent.com/39372009/139333282-1a791e44-4607-47f7-88ea-f6357db6a5fd.jpeg)
+
