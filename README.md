@@ -6,6 +6,7 @@ Goal is to make one table of building footprints for whole of US - process autom
 # Install GDAL on WIN 10 64bit
 
 https://www.gisinternals.com/release.php
+
 https://download.gisinternals.com/sdk/downloads/release-1900-x64-gdal-2-4-4-mapserver-7-4-3/gdal-204-1900-x64-core.msi
 
 # After installation, it is necessary to add a path
