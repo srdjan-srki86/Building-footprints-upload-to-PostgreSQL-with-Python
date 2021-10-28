@@ -16,3 +16,10 @@ https://download.gisinternals.com/sdk/downloads/release-1900-x64-gdal-2-4-4-maps
 
 ![image2_new](https://user-images.githubusercontent.com/39372009/139333282-1a791e44-4607-47f7-88ea-f6357db6a5fd.jpeg)
 
+# After installing Python and GDAL, it is necessary to install libraries
+
+1. fill in the script with the necessary data
+2. the order in which the scripts are run (it is also necessary to set the function to Postgres - function.sql for example)
+	- download_unzip
+	- upload_to_postgres
+	- run_function
